@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/vows-manager/vows-manager.iml" filepath="$PROJECT_DIR$/vows-manager/vows-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vows-manager/vows-manager-mapper/vows-manager-mapper.iml" filepath="$PROJECT_DIR$/vows-manager/vows-manager-mapper/vows-manager-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vows-manager/vows-manager-pojo/vows-manager-pojo.iml" filepath="$PROJECT_DIR$/vows-manager/vows-manager-pojo/vows-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vows-manager/vows-manager-service/vows-manager-service.iml" filepath="$PROJECT_DIR$/vows-manager/vows-manager-service/vows-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vows-manager/vows-manager-web/vows-manager-web.iml" filepath="$PROJECT_DIR$/vows-manager/vows-manager-web/vows-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vowsparent.iml" filepath="$PROJECT_DIR$/vowsparent.iml" />
+    </modules>
+  </component>
+</project>

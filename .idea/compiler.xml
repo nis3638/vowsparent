@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="vows-manager-mapper" />
+        <module name="vows-manager-pojo" />
+        <module name="vows-manager-service" />
+        <module name="vows-manager-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.6">
+      <module name="vows-manager" target="1.5" />
+      <module name="vows-manager-mapper" target="1.5" />
+      <module name="vows-manager-pojo" target="1.5" />
+      <module name="vows-manager-service" target="1.5" />
+      <module name="vows-manager-web" target="1.5" />
+      <module name="vowsparent" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
