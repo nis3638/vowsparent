@@ -12,11 +12,28 @@
     <artifactId>vows-manager-web</artifactId>
     <packaging>war</packaging>
 
-
     <dependencies>
         <dependency>
-            <artifactId>vows-manager</artifactId>
+            <artifactId>vows-manager-service</artifactId>
             <groupId>com.vows.demo</groupId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-context</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-webmvc</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-web</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-web</artifactId>
+            <version>4.3.5.RELEASE</version>
         </dependency>
     </dependencies>
 </project>

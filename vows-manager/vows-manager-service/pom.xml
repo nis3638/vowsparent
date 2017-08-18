@@ -10,12 +10,21 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>vows-manager-service</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
     <dependencies>
         <dependency>
             <groupId>com.github.pagehelper</groupId>
             <artifactId>pagehelper</artifactId>
         </dependency>
-
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-webmvc</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-web</artifactId>
+        </dependency>
     </dependencies>
 
 </project>

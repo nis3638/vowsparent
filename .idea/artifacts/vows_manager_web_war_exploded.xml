@@ -7,7 +7,17 @@
           <element id="module-output" name="vows-manager-web" />
         </element>
         <element id="directory" name="lib">
-          <element id="library" level="project" name="Maven: com.vows.demo:vows-manager:unknown" />
+          <element id="archive" name="vows-manager-service-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="vows-manager-service" />
+          </element>
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:4.3.10.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:4.3.10.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:4.3.10.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:4.3.10.RELEASE" />
+          <element id="library" level="project" name="Maven: commons-logging:commons-logging:1.2" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:4.3.10.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:4.3.5.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:4.3.5.RELEASE" />
         </element>
       </element>
       <element id="directory" name="META-INF">
